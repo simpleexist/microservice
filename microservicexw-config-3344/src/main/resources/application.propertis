@@ -1,0 +1,9 @@
+spring.application.name=microservicecloud-config
+server.port=3344
+
+##############集成SpringClud的配置中心##########
+spring.cloud.config.server.git.uri=https://gitee.com/simple-exist/microservicecloud-config.git
+#spring.cloud.config.server.git.uri=https://gitee.com/strongFan/individualProject.git   这里获取的不是git的地址，请参考进行对比
+spring.cloud.config.server.git.searchPaths=microservicecloud-config  #git上面存放配置的文件夹
+#spring.cloud.config.server.git.username=18202146492
+#spring.cloud.config.server.git.password=072626ok

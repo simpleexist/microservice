@@ -4,8 +4,8 @@ microservice
 #github-----------------------------------------------------------------------------------------------------------------------------------
 Quick setup — if you’ve done this kind of thing before
  Set up in Desktop	or	
-HTTPS    git@github.com:simpleexist/microservice.git
-SSH  https://github.com/simpleexist/microservice.git
+HTTPS   https://github.com/simpleexist/microservice.git
+SSH         git@github.com:simpleexist/microservice.git
 
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
