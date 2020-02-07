@@ -11,4 +11,3 @@ spring:
           #uri: git@github.com:zzyybs/microservicecloud-config.git #GitHub上面的git仓库名字
           uri: https://gitee.com/simple-exist/microservicecloud-config.git
  
-
